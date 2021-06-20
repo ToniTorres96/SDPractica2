@@ -20,7 +20,7 @@ plt.style.use('fivethirtyeight')
 
 consumerKey = ''
 consumerSecret = ''
-accessToken = '249793048-'
+accessToken = ''
 accessTokenSecret = ''
 
 
